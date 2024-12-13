@@ -69,6 +69,6 @@ common_bigrams = bigram_freq.most_common(10)
 print("\nCommon Phrases (Bigrams):")
 print(common_bigrams)
 
-# Save the results to a new CSV file if needed
-#df.to_csv('E:\\EDUCATION\\Kifiya_AI_Mastery_Program\\W1Data\\Data\\raw_analyst_ratings.csv\\output_with_sentiment.csv', index=False)
-#print("\nResults saved to 'output_with_sentiment.csv'.")
+#Save the results to a new CSV file if needed
+df.to_csv('E:\\EDUCATION\\Kifiya_AI_Mastery_Program\\W1Data\\Data\\raw_analyst_ratings.csv\\output_with_sentiment.csv', index=False)
+print("\nResults saved to 'output_with_sentiment.csv'.")
