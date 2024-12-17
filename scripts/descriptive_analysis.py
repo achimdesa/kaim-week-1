@@ -53,13 +53,12 @@ plt.xlabel('Date')
 plt.ylabel('Number of Articles')
 
 # Set major ticks to every 2 weeks or use MonthLocator
-plt.gca().xaxis.set_major_locator(mdates.WeekdayLocator(interval=2))  # Change to 2 weeks, or use MonthLocator
-
+plt.gca().xaxis.set_major_locator(mdates.WeekdayLocator(interval=2))  
 # Format the x-axis labels
 plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
 
 # Manually set ticks every 14 days
-plt.xticks(articles_per_day.index[::14], rotation=45)  # Adjust interval as needed
+plt.xticks(articles_per_day.index[::14], rotation=45) 
 
 # Automatically format the x-axis date labels
 plt.gcf().autofmt_xdate()

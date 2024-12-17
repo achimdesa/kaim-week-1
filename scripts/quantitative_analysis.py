@@ -51,8 +51,10 @@ def main():
         'E:\\EDUCATION\\Kifiya_AI_Mastery_Program\\W1Data\\Data\\yfinance_data\\AAPL.csv',
         'E:\\EDUCATION\\Kifiya_AI_Mastery_Program\\W1Data\\Data\\yfinance_data\\AMZN.csv',
         'E:\\EDUCATION\\Kifiya_AI_Mastery_Program\\W1Data\\Data\\yfinance_data\\GOOG.csv',
-        #'path/to/stock2.csv',
-        # Add more file paths as needed
+        'E:\\EDUCATION\\Kifiya_AI_Mastery_Program\\W1Data\\Data\\yfinance_data\\MET.csv',
+        'E:\\EDUCATION\\Kifiya_AI_Mastery_Program\\W1Data\\Data\\yfinance_data\\NVDA.csv',
+        'E:\\EDUCATION\\Kifiya_AI_Mastery_Program\\W1Data\\Data\\yfinance_data\\MSFT.csv',
+      
     ]
     
     # Load data

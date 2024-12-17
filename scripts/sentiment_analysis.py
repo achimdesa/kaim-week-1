@@ -7,7 +7,7 @@ from collections import Counter
 
 # Ensure required NLTK resources are downloaded
 nltk.download('vader_lexicon')
-nltk.download('punkt')  # Added this line
+nltk.download('punkt') 
 nltk.download('stopwords')
 
 # Load the CSV file
