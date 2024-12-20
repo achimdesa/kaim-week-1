@@ -84,7 +84,7 @@ In this task, we analyze the correlation between daily sentiment from news headl
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:SolomonZinabu/week-1.git
+   git clone git@github.com:achimdesa/week-1.git
    cd week-1
 Install the required Python packages:
 bash
@@ -96,6 +96,3 @@ Run the Jupyter notebooks:
 jupyter notebook
 Contributing
 Feel free to contribute to this project by submitting issues or pull requests.
-
-License
-This project is licensed under the MIT License.
