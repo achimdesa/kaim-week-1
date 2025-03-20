@@ -16,7 +16,7 @@ This repository contains Python scripts for conducting various data analysis tas
 
 1. Clone the repository:
     ```bash
-    git clone git@github.com:SolomonZinabu/week-1.git
+    git clone git@github.com:achimdesa/week-1.git
     cd week-1
     ```
 
